@@ -1,4 +1,4 @@
-# Retail Store Data Analysis (EDA) 🛒
+# Data Analysis (EDA) 🛒
 
 This project performs a comprehensive **Exploratory Data Analysis (EDA)** on retail sales data to identify trends, customer behaviors, and inventory performance using Python.
 
