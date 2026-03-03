@@ -1,27 +1,24 @@
-# Data Analysis (EDA) 🛒
 
-This project performs a comprehensive **Exploratory Data Analysis (EDA)** on retail sales data to identify trends, customer behaviors, and inventory performance using Python.
 
-## 📊 Project Highlights
-* **Data Cleaning:** Handled missing values and optimized data types for analysis.
-* **Sales Trends:** Visualized monthly and categorical sales performance.
-* **Customer Insights:** Analyzed spending patterns and demographics.
-* **Visualizations:** Created Heatmaps, Bar Charts, and Pie Charts to make the data easy to understand.
+# 🍔 McDonald's Menu Nutritional Analysis
 
-## 🛠️ Technologies Used
-* **Python**
-* **Pandas** & **NumPy** (Data Manipulation)
-* **Matplotlib** & **Seaborn** (Data Visualization)
-
-## 📈 Key Results
-* Identified the top-performing product categories.
-* Discovered peak sales periods to help with inventory planning.
-* Visualized correlations between price, quantity, and total revenue.
-
-## 🚀 How to Use
-1. Clone the repository.
-2. Open `Retail_EDA_Project.ipynb` in Jupyter Notebook or Google Colab.
-3. Run all cells to see the full analysis and visualizations.
+An Exploratory Data Analysis (EDA) of the McDonald's menu to uncover nutritional trends, calorie distributions, and category-wise health metrics.
 
 ---
+
+## 📌 Project Overview
+The goal of this project is to analyze the nutritional content of every item on the McDonald's menu. Using Python's data science ecosystem, I explored which categories are the most calorie-dense and identified significant patterns in sugar, fat, and protein content across the entire menu.
+
+## 📊 Key Insights
+* **Highest Calorie Category:** Analysis reveals that "Breakfast" and "Burgers" categories consistently contain the highest sodium and calorie counts.
+* **Sugar Traps:** Identified that certain "Smoothies & Shakes" contain significantly more sugar than multiple dessert items combined.
+* **Protein Winners:** Highlighted specific menu items that offer the optimal protein-to-calorie ratio for health-conscious consumers.
+* **Nutritional Variance:** Significant differences were found in the fat content between grilled vs. crispy chicken options.
+
+## 🛠️ Tools & Libraries
+* **Python**: The core language used for data processing.
+* **Pandas**: Essential for data cleaning, filtering, and manipulation.
+* **Matplotlib & Seaborn**: Used to create clear, impactful statistical visualizations.
+* **Jupyter Notebook**: Used for documenting the step-by-step analysis and code execution.
+
 **Author:** [Palak](https://github.com/palak252)
